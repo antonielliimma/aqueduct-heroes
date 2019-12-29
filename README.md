@@ -1,4 +1,8 @@
-# heroes
+
+# aqueduct-heroes
+
+Tutorial oficial do Aqueduct https://aqueduct.io/docs/tut/getting-started/
+
 
 ## Running the Application Locally
 
@@ -19,3 +23,4 @@ The default configuration file used when testing is `config.src.yaml`. This file
 ## Deploying an Application
 
 See the documentation for [Deployment](https://aqueduct.io/docs/deploy/).
+
